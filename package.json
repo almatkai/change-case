@@ -3,7 +3,7 @@
   "name": "change-case",
   "title": "Change Case",
   "description": "Transform a string between camelCase, snake_case, CONSTANT_CASE, and more",
-  "icon": "command-icon.png",
+  "icon": "assets/command-icon.png",
   "author": "almatkai",
   "categories": [
     "Developer Tools",
