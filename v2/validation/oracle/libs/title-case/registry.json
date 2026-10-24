@@ -1,0 +1,78 @@
+{
+  "bugs": {
+    "url": "https://github.com/blakeembrey/change-case/issues"
+  },
+  "dist": {
+    "shasum": "498d22ca7083dcfb9add4f4b8d98c000d05fceb3",
+    "tarball": "https://registry.npmjs.org/title-case/-/title-case-4.3.2.tgz",
+    "fileCount": 5,
+    "integrity": "sha512-I/nkcBo73mO42Idfv08jhInV61IMb61OdIFxk+B4Gu1oBjWBPOLmhZdsli+oJCVaD+86pYQA93cJfFt224ZFAA==",
+    "signatures": [
+      {
+        "sig": "MEUCIEoq/iybA+DiYL6YhQamriOgNYEvzmy2+x2axskQui5TAiEAjhSjjhj17OL4NOTcQ/09sU5ELknjqGZr0s/lcw0rc0I=",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 16579
+  },
+  "main": "./dist/index.js",
+  "name": "title-case",
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "author": {
+    "url": "http://blakeembrey.me",
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com"
+  },
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "gitHead": "38e6b4f9115cf93b18ca9b1b4a620a32751499cb",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-scripts test",
+    "bench": "vitest bench",
+    "build": "ts-scripts build",
+    "specs": "ts-scripts specs",
+    "format": "ts-scripts format",
+    "prepublishOnly": "npm run build"
+  },
+  "_npmUser": {
+    "name": "blakeembrey",
+    "email": "hello@blakeembrey.com"
+  },
+  "homepage": "https://github.com/blakeembrey/change-case/tree/master/packages/title-case#readme",
+  "keywords": [
+    "title",
+    "case",
+    "english",
+    "capital",
+    "sentence",
+    "convert",
+    "transform"
+  ],
+  "repository": {
+    "url": "git://github.com/blakeembrey/change-case.git",
+    "type": "git"
+  },
+  "_npmVersion": "10.5.0",
+  "description": "Transform a string into title case following English rules",
+  "directories": {},
+  "maintainers": [
+    {
+      "name": "blakeembrey",
+      "email": "hello@blakeembrey.com"
+    }
+  ],
+  "_nodeVersion": "20.12.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "_hasShrinkwrap": false,
+  "_npmOperationalInternal": {
+    "tmp": "tmp/title-case_4.3.2_1726432663578_0.8090301995840312",
+    "host": "s3://npm-registry-packages"
+  },
+  "_id": "title-case@4.3.2",
+  "version": "4.3.2"
+}

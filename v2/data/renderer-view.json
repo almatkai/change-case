@@ -1,0 +1,1095 @@
+{
+  "actions": [
+    {
+      "id": "change-case:1",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:2",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:3",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:4",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Camel Case"
+    },
+    {
+      "id": "change-case:5",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:6",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:7",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:8",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:9",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Capital Case"
+    },
+    {
+      "id": "change-case:10",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:11",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:12",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:13",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:14",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Constant Case"
+    },
+    {
+      "id": "change-case:15",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:16",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:17",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:18",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:19",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Dot Case"
+    },
+    {
+      "id": "change-case:20",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:21",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:22",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:23",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:24",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Header Case"
+    },
+    {
+      "id": "change-case:25",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:26",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:27",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:28",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:29",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Lower Case"
+    },
+    {
+      "id": "change-case:30",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:31",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:32",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:33",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:34",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Lower First"
+    },
+    {
+      "id": "change-case:35",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:36",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:37",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:38",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:39",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to No Case"
+    },
+    {
+      "id": "change-case:40",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:41",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:42",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:43",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:44",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Kebab Case"
+    },
+    {
+      "id": "change-case:45",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:46",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:47",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:48",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:49",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Kebab Upper Case"
+    },
+    {
+      "id": "change-case:50",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:51",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:52",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:53",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:54",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Pascal Case"
+    },
+    {
+      "id": "change-case:55",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:56",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:57",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:58",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:59",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Pascal Snake Case"
+    },
+    {
+      "id": "change-case:60",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:61",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:62",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:63",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:64",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Path Case"
+    },
+    {
+      "id": "change-case:65",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:66",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:67",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:68",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:69",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Random Case"
+    },
+    {
+      "id": "change-case:70",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:71",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:72",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:73",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:74",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Sentence Case"
+    },
+    {
+      "id": "change-case:75",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:76",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:77",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:78",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:79",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Snake Case"
+    },
+    {
+      "id": "change-case:80",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:81",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:82",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:83",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:84",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Alternating Case"
+    },
+    {
+      "id": "change-case:85",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:86",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:87",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:88",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:89",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Swap Case"
+    },
+    {
+      "id": "change-case:90",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:91",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:92",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:93",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:94",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Title Case"
+    },
+    {
+      "id": "change-case:95",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:96",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:97",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:98",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:99",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Upper Case"
+    },
+    {
+      "id": "change-case:100",
+      "kind": "action",
+      "title": "Refresh Content"
+    },
+    {
+      "id": "change-case:101",
+      "kind": "action",
+      "title": "Paste in Active App"
+    },
+    {
+      "id": "change-case:102",
+      "kind": "action",
+      "title": "Copy to Clipboard"
+    },
+    {
+      "id": "change-case:103",
+      "kind": "action",
+      "title": "Pin Case"
+    },
+    {
+      "id": "change-case:104",
+      "kind": "action",
+      "title": "Create Quicklink to Convert to Upper First"
+    },
+    {
+      "id": "change-case:105",
+      "kind": "action",
+      "title": "Refresh Content"
+    }
+  ],
+  "commandName": "change-case",
+  "extensionId": "com.tezbar.native.change-case",
+  "mode": "view",
+  "ok": true,
+  "root": {
+    "children": [
+      {
+        "children": [],
+        "props": {
+          "title": "Pinned"
+        },
+        "type": "List.Section"
+      },
+      {
+        "children": [],
+        "props": {
+          "title": "Recent"
+        },
+        "type": "List.Section"
+      },
+      {
+        "children": [
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "helloWorld"
+                }
+              ],
+              "actionIds": [
+                "change-case:1",
+                "change-case:2",
+                "change-case:3",
+                "change-case:4",
+                "change-case:5"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "helloWorld\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Camel Case",
+              "title": "Camel Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello World"
+                }
+              ],
+              "actionIds": [
+                "change-case:6",
+                "change-case:7",
+                "change-case:8",
+                "change-case:9",
+                "change-case:10"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello World\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Capital Case",
+              "title": "Capital Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HELLO_WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:11",
+                "change-case:12",
+                "change-case:13",
+                "change-case:14",
+                "change-case:15"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HELLO_WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Constant Case",
+              "title": "Constant Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello.world"
+                }
+              ],
+              "actionIds": [
+                "change-case:16",
+                "change-case:17",
+                "change-case:18",
+                "change-case:19",
+                "change-case:20"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello.world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Dot Case",
+              "title": "Dot Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello-World"
+                }
+              ],
+              "actionIds": [
+                "change-case:21",
+                "change-case:22",
+                "change-case:23",
+                "change-case:24",
+                "change-case:25"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello-World\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Header Case",
+              "title": "Header Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello world"
+                }
+              ],
+              "actionIds": [
+                "change-case:26",
+                "change-case:27",
+                "change-case:28",
+                "change-case:29",
+                "change-case:30"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Lower Case",
+              "title": "Lower Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:31",
+                "change-case:32",
+                "change-case:33",
+                "change-case:34",
+                "change-case:35"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Lower First",
+              "title": "Lower First"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello world"
+                }
+              ],
+              "actionIds": [
+                "change-case:36",
+                "change-case:37",
+                "change-case:38",
+                "change-case:39",
+                "change-case:40"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "No Case",
+              "title": "No Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello-world"
+                }
+              ],
+              "actionIds": [
+                "change-case:41",
+                "change-case:42",
+                "change-case:43",
+                "change-case:44",
+                "change-case:45"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello-world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Kebab Case",
+              "title": "Kebab Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HELLO-WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:46",
+                "change-case:47",
+                "change-case:48",
+                "change-case:49",
+                "change-case:50"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HELLO-WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Kebab Upper Case",
+              "title": "Kebab Upper Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HelloWorld"
+                }
+              ],
+              "actionIds": [
+                "change-case:51",
+                "change-case:52",
+                "change-case:53",
+                "change-case:54",
+                "change-case:55"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HelloWorld\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Pascal Case",
+              "title": "Pascal Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello_World"
+                }
+              ],
+              "actionIds": [
+                "change-case:56",
+                "change-case:57",
+                "change-case:58",
+                "change-case:59",
+                "change-case:60"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello_World\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Pascal Snake Case",
+              "title": "Pascal Snake Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello/world"
+                }
+              ],
+              "actionIds": [
+                "change-case:61",
+                "change-case:62",
+                "change-case:63",
+                "change-case:64",
+                "change-case:65"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello/world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Path Case",
+              "title": "Path Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HelLo WoRlD"
+                }
+              ],
+              "actionIds": [
+                "change-case:66",
+                "change-case:67",
+                "change-case:68",
+                "change-case:69",
+                "change-case:70"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HelLo WoRlD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Random Case",
+              "title": "Random Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:71",
+                "change-case:72",
+                "change-case:73",
+                "change-case:74",
+                "change-case:75"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Sentence Case",
+              "title": "Sentence Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "hello_world"
+                }
+              ],
+              "actionIds": [
+                "change-case:76",
+                "change-case:77",
+                "change-case:78",
+                "change-case:79",
+                "change-case:80"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "hello_world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Snake Case",
+              "title": "Snake Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HeLlO wOrLd"
+                }
+              ],
+              "actionIds": [
+                "change-case:81",
+                "change-case:82",
+                "change-case:83",
+                "change-case:84",
+                "change-case:85"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HeLlO wOrLd\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Alternating Case",
+              "title": "Alternating Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HELLO world"
+                }
+              ],
+              "actionIds": [
+                "change-case:86",
+                "change-case:87",
+                "change-case:88",
+                "change-case:89",
+                "change-case:90"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HELLO world\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Swap Case",
+              "title": "Swap Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:91",
+                "change-case:92",
+                "change-case:93",
+                "change-case:94",
+                "change-case:95"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Title Case",
+              "title": "Title Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "HELLO WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:96",
+                "change-case:97",
+                "change-case:98",
+                "change-case:99",
+                "change-case:100"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "HELLO WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Upper Case",
+              "title": "Upper Case"
+            },
+            "type": "List.Item"
+          },
+          {
+            "props": {
+              "accessories": [
+                {
+                  "text": "Hello WORLD"
+                }
+              ],
+              "actionIds": [
+                "change-case:101",
+                "change-case:102",
+                "change-case:103",
+                "change-case:104",
+                "change-case:105"
+              ],
+              "detail": {
+                "props": {
+                  "markdown": "Hello WORLD\n"
+                },
+                "type": "List.Item.Detail"
+              },
+              "id": "Upper First",
+              "title": "Upper First"
+            },
+            "type": "List.Item"
+          }
+        ],
+        "props": {
+          "title": "All Cases"
+        },
+        "type": "List.Section"
+      }
+    ],
+    "props": {
+      "__hasServerSearch": true,
+      "filtering": false,
+      "isShowingDetail": true,
+      "searchBarPlaceholder": "Search cases and aliases",
+      "searchText": "",
+      "selectedItemId": null
+    },
+    "type": "List"
+  },
+  "sessionId": "native-extension:af5ada90-0f64-4d35-99c2-fabd90ff2de2",
+  "title": "Change Case"
+}
