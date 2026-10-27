@@ -1,0 +1,81 @@
+{
+  "bugs": {
+    "url": "https://github.com/blakeembrey/change-case/issues"
+  },
+  "dist": {
+    "shasum": "0d52b507d8fb8f204343432381d1a6d7bff97a02",
+    "tarball": "https://registry.npmjs.org/change-case/-/change-case-5.4.4.tgz",
+    "fileCount": 8,
+    "integrity": "sha512-HRQyTk2/YPEkt9TnUPbOpr64Uw3KOicFWPVBb+xiHvd6eBx/qPr9xqfBFDT8P2vWsvvz4jbEkfDe71W3VyNu2w==",
+    "signatures": [
+      {
+        "sig": "MEYCIQDvQ3c1OAQ/6jw4qNPMljv5dTjFGF7XpAyl+oDtN3VS/QIhAMUFwgP8pgM351JvWPs3gxayaKGoRNubPTcB2NjjGzi0",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 35915
+  },
+  "main": "./dist/index.js",
+  "name": "change-case",
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "author": {
+    "url": "http://blakeembrey.me",
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com"
+  },
+  "exports": {
+    ".": "./dist/index.js",
+    "./keys": "./dist/keys.js"
+  },
+  "gitHead": "8aaff31471c918d3eac2b40939c601bee37375dd",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-scripts test",
+    "bench": "vitest bench",
+    "build": "ts-scripts build",
+    "specs": "ts-scripts specs",
+    "format": "ts-scripts format",
+    "prepublishOnly": "npm run build"
+  },
+  "_npmUser": {
+    "name": "blakeembrey",
+    "email": "hello@blakeembrey.com"
+  },
+  "homepage": "https://github.com/blakeembrey/change-case/tree/master/packages/change-case#readme",
+  "keywords": [
+    "change",
+    "case",
+    "convert",
+    "transform",
+    "camel-case",
+    "pascal-case",
+    "param-case",
+    "kebab-case",
+    "header-case"
+  ],
+  "repository": {
+    "url": "git://github.com/blakeembrey/change-case.git",
+    "type": "git"
+  },
+  "_npmVersion": "10.2.0",
+  "description": "Transform a string between `camelCase`, `PascalCase`, `Capital Case`, `snake_case`, `kebab-case`, `CONSTANT_CASE` and others",
+  "directories": {},
+  "maintainers": [
+    {
+      "name": "blakeembrey",
+      "email": "hello@blakeembrey.com"
+    }
+  ],
+  "_nodeVersion": "21.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "_hasShrinkwrap": false,
+  "_npmOperationalInternal": {
+    "tmp": "tmp/change-case_5.4.4_1712183696966_0.6388580714881451",
+    "host": "s3://npm-registry-packages"
+  },
+  "_id": "change-case@5.4.4",
+  "version": "5.4.4"
+}

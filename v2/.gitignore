@@ -1,0 +1,9 @@
+target/
+**/node_modules/
+validation/v1/
+validation/materialized/
+!**/dist/
+!**/dist/**
+validation/pyenv/
+validation/package-list.txt
+validation/extracted/

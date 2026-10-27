@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "aggregateSPDX": "MIT AND Apache-2.0 AND Unicode-3.0",
+  "files": [
+    {
+      "path": "fixtures/beta/LICENSE",
+      "bytes": 10750,
+      "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "LICENSE"
+      }
+    },
+    {
+      "path": "fixtures/beta/docs/NATIVE_V2_FORMAT.md",
+      "bytes": 2593,
+      "sha256": "8bf9315ad047326dd6737587ca5491fc35faf5e3f92a2d9c63f596be0c8f7b7a",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "docs/NATIVE_V2_FORMAT.md"
+      }
+    },
+    {
+      "path": "fixtures/beta/schemas/extension-v2.schema.json",
+      "bytes": 2420,
+      "sha256": "6d5afda1b652605982104bdf16d1547547b98dfd707a7b2969316406c49f32af",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "schemas/extension-v2.schema.json"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-overlay.tsx",
+      "bytes": 2915,
+      "sha256": "3eb4a59db0de59460ea8a2c7f4a1f6ec5b514a512f49352bf373db64ed58d604",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/action-runtime-overlay.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-registry.tsx",
+      "bytes": 692,
+      "sha256": "ffbad6f70410c6d2dcf4af217abe4ab297d69c0cae2c993263c008a423175e16",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/action-runtime-registry.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime.tsx",
+      "bytes": 391,
+      "sha256": "6e7a41e3d1a7ee2028103683f08fb8ed20e4b2e5751e182afe9f8e189522a28b",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/action-runtime.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/detail-runtime.test.ts",
+      "bytes": 1028,
+      "sha256": "94acca3393a3636f7188a2ceac4a5e0429c2a0bc3433b02163602bdbe38beef4",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/detail-runtime.test.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/detail-runtime.tsx",
+      "bytes": 23478,
+      "sha256": "32eecb50891e0f282bd3d78d8a38193ec24540bf70c3fdc8e43a1d368c97d54c",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/detail-runtime.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/form-runtime.test.ts",
+      "bytes": 3876,
+      "sha256": "3c449509be65d1ffc8949a11835fadeb6300b7d647898309b5abc5b2e94af112",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/form-runtime.test.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/form-runtime.tsx",
+      "bytes": 21087,
+      "sha256": "8568d0ac5be03eea97d0def38067dbbbdce5ae97c36a51024857ef20dce299a6",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/form-runtime.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/grid-content.ts",
+      "bytes": 761,
+      "sha256": "71cf7151e1986389b550cf5a069383af79b88de2726176859496ac40fd8d9d41",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/grid-content.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/grid-runtime.test.ts",
+      "bytes": 587,
+      "sha256": "633fcbbd5048f46d69388016481dfd54f800a8ff404810a556eb7ccfa3b626a0",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/grid-runtime.test.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/grid-runtime.tsx",
+      "bytes": 15804,
+      "sha256": "9c19dffaf9596814315f61d8a66eaa3b914a138d8f10c860e01efd245d3e2e5b",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/grid-runtime.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/hooks.ts",
+      "bytes": 4050,
+      "sha256": "50bb0c3ad3721f600abe3091f3adba1c6515c2d639356b20c94c7f5cc96a492b",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/hooks.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/index.tsx",
+      "bytes": 7419,
+      "sha256": "7fc8413a72b92e8f88b0939cd93f91624018fe0765baa1e71b38b86f8cc77a64",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/index.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/ipc-bridge.ts",
+      "bytes": 1110,
+      "sha256": "17784548760d476efebeae36d5b03e9c50a69c2da2b92ce0163cabbfe9566d97",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/ipc-bridge.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/list-runtime.tsx",
+      "bytes": 32174,
+      "sha256": "c7e253c34ce6e0a5132cab96bf1f0388393faca79ff57c3fdc7956f377a0ab0f",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/list-runtime.tsx"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/native-v2-visuals.test.ts",
+      "bytes": 3347,
+      "sha256": "afa00333ff5293015fc1d6c87dc429ef9fdb6322a89887c6ad7b6b5b49fcb182",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/renderer/src/raycast-api/native-v2-visuals.test.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src/shared/extensionRuntime.ts",
+      "bytes": 3838,
+      "sha256": "837b804856baa6b16ebda080920af456268fefcffa7a1c3e2964b95d697ee387",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src/shared/extensionRuntime.ts"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/common.rs",
+      "bytes": 7627,
+      "sha256": "280a0a2f0dd04a8570b320aafc0c3ece0f5de8ddb21c363645567d6a35d84da7",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/common.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/native.rs",
+      "bytes": 14551,
+      "sha256": "3192be6beccc110cd6daa22db412e0f90685957ec51b3c71103b78e239978691",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/native.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/native_tests.rs",
+      "bytes": 23475,
+      "sha256": "75c4bf5ec47d0d64d3d8e51db0989e708d1474b1bb41a667098bd645394145fc",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/native_tests.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_catalog.rs",
+      "bytes": 6839,
+      "sha256": "651a16df484f42a827ac69e209e80d09cad868232d1953d241652a4a39481e16",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/v2_catalog.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_google_search.rs",
+      "bytes": 23153,
+      "sha256": "a55393295893e049b522e0255ae95374e40e40a1a24a2c3c1e7f58cd517de259",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/v2_google_search.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_runtime.rs",
+      "bytes": 3110,
+      "sha256": "df96675ba916a3d70b8e0e5da76f7a9422d238cc3fbe3a5a6178fef21662a6a0",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/v2_runtime.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_sdk.rs",
+      "bytes": 6755,
+      "sha256": "4f987346f863db9a7bd6aa1d5a99e149925dc69a44d629727ccc80a567cd27c2",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/extensions/v2_sdk.rs"
+      }
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/platform.rs",
+      "bytes": 28906,
+      "sha256": "75fa7ce4204edbbdb0f4a5410895b32239939b707256c484dc3c4f9de390b5a1",
+      "origin": {
+        "repository": "Tezbar",
+        "commit": "fd300e276356587726566026f072563eb9c34cb1",
+        "path": "src-tauri/src/native_core/platform.rs"
+      }
+    },
+    {
+      "path": "validation/oracle/src/cases.ts",
+      "bytes": 3034,
+      "sha256": "4a0efc4380cfc3e653ac4fd5c97688e858acfcc459711fc71e6dfe666d190537",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/cases.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/change-case.tsx",
+      "bytes": 10327,
+      "sha256": "ae0f19713168f7c1e89bc679807f56fd8d13bfe08f4e35de8b810406836b2d34",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/change-case.tsx"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-alternating-case.ts",
+      "bytes": 94,
+      "sha256": "0824dfe89f0c50e366b686195f0f51845dac2e44520d525b59e65249d7f551e0",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-alternating-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-camel-case.ts",
+      "bytes": 88,
+      "sha256": "d1b65b3d6d3125998b56818487564cd59dde1b76d800cfcec0e7cb8d0d95889a",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-camel-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-capital-case.ts",
+      "bytes": 90,
+      "sha256": "46384be536cd6c3321b40e3dc9b9aac729da7299389ddb278561f69a5ede1b6a",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-capital-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-constant-case.ts",
+      "bytes": 91,
+      "sha256": "ad4f7127ff4c4516b2df592ac7285a3352f3a6cfb14546f519fa908163a8f0bd",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-constant-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-dot-case.ts",
+      "bytes": 86,
+      "sha256": "eebb4ff9858f37f0f5f9c564eef35c1f8c37dc2e982520e505cf8aafde6c0ac5",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-dot-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-header-case.ts",
+      "bytes": 89,
+      "sha256": "dd582f07a850d9dfd62b564227eb3e515b8331707f514312d3e5cdab998d24a3",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-header-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-kebab-case.ts",
+      "bytes": 88,
+      "sha256": "1cf94210ed73721cb893e64bea7896c3e184a58397316fccfffb0f693b91b691",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-kebab-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-kebab-upper-case.ts",
+      "bytes": 94,
+      "sha256": "bc30c091c3b9418b467751f9fb76836d3b17aeafc135d70ade1195c12d2066ce",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-kebab-upper-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-lower-case.ts",
+      "bytes": 88,
+      "sha256": "95a78565f0cdf33a635030161c03fbc17919233cf182b93b5c1e2f21b0aa6abf",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-lower-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-lower-first.ts",
+      "bytes": 89,
+      "sha256": "8c60ae0dcdc869f2c551f65b1b50e4db31cea95f1e6acb70211f839b262512c3",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-lower-first.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-no-case.ts",
+      "bytes": 85,
+      "sha256": "cc4891a70504f7e608d51c8ae6a3c012b83c41aae23f0b5c79c4c1675f49944d",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-no-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-pascal-case.ts",
+      "bytes": 89,
+      "sha256": "ef513dd7028ed2bc373eab3917a86efcdf5d59f3ce98817b670b6161ffa30798",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-pascal-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-pascal-snake-case.ts",
+      "bytes": 95,
+      "sha256": "0b538b6336292624fb086bef400d404f032d96459b5dfbc3a58a19c52f264b05",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-pascal-snake-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-path-case.ts",
+      "bytes": 87,
+      "sha256": "4c37c161c4b47a0b6fb066d765a8a54f5a4bc6dbfbe2c12a9d7fdac84be02a04",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-path-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-random-case.ts",
+      "bytes": 89,
+      "sha256": "93260b6dfa6741493bb221a81c6d185fab74760ad2662821e096136f35042177",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-random-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-sentence-case.ts",
+      "bytes": 91,
+      "sha256": "0ca2d02d6384c10fb04ebe3e5e3403d967fecc72045762b487d771115b4244a8",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-sentence-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-snake-case.ts",
+      "bytes": 88,
+      "sha256": "5b2aa6a904917c727dac8a832a2f2abed0aa7ba5d8288ed2299d742e681c5a72",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-snake-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-swap-case.ts",
+      "bytes": 87,
+      "sha256": "910a2c03fb7e6250b3198cc776fed03ebc9fde3120b7cdfab6726716f7a6de8f",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-swap-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-title-case.ts",
+      "bytes": 88,
+      "sha256": "0ecb6187dbd1b78ef861f31c4d475802b4f7687c200c9237c918522e2d47727f",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-title-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-upper-case.ts",
+      "bytes": 88,
+      "sha256": "95a74d704f06f3948b39f6a1c1c3472768a7c951308396213fba396cc1af2ab3",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-upper-case.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/convert-upper-first.ts",
+      "bytes": 89,
+      "sha256": "353fd02b4a9a118ef4c83074f96ad690cdd415b3d4b8d402da57ecee3bcce8f7",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/convert-upper-first.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/customCases.ts",
+      "bytes": 3419,
+      "sha256": "d1d589ef13e3051efa081d8ec78a383a6c25fc1c1d850a644fa880b59ee17fcd",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/customCases.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/no-view.ts",
+      "bytes": 920,
+      "sha256": "519bce4593f9815a8d41185a16a89f1321e3776aaaf0d16fd8f73f9e3a946240",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/no-view.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/src/utils.ts",
+      "bytes": 774,
+      "sha256": "167746e46f4adc28c7b373578b5b2c080635064402b73521bdbaefac1c19d2c3",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "src/utils.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/test/change-case.test.ts",
+      "bytes": 2617,
+      "sha256": "46fb472cde8dec4c0c1a4729cb23be604119d89f7d4f13a153926d3dfffbdecc",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "test/change-case.test.ts"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/change-case/dist/index.js",
+      "bytes": 7207,
+      "sha256": "945e3a44cd0d64634ee10931767e9e2e0d7defbd0576ee4ed7cdba164a51a1e1",
+      "origin": {
+        "npm": "change-case",
+        "version": "5.4.4",
+        "path": "dist/index.js"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/change-case/package.json",
+      "bytes": 1243,
+      "sha256": "fd157305a17999a8a5db2f3bff0126e30898adaf98b1f3a06f9afbb34b897181",
+      "origin": {
+        "npm": "change-case",
+        "version": "5.4.4",
+        "path": "package.json"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/change-case/registry.json",
+      "bytes": 2284,
+      "sha256": "ff085b54d232522e232ddb1d0ac607c22a4d42c4c994de4956a8687da70a7056",
+      "origin": {
+        "npm": "change-case",
+        "version": "5.4.4",
+        "path": "registry.json"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/swap-case/dist/index.js",
+      "bytes": 284,
+      "sha256": "a30a496d8792ebe5918b54f11d52638daf123191a7cd43a3a70bba6b6239094b",
+      "origin": {
+        "npm": "swap-case",
+        "version": "3.0.3",
+        "path": "dist/index.js"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/swap-case/package.json",
+      "bytes": 1124,
+      "sha256": "a6efa9882ee71545fd921876048a7964801b44f393fcd2985f4d8dde5e9eaf9e",
+      "origin": {
+        "npm": "swap-case",
+        "version": "3.0.3",
+        "path": "package.json"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/swap-case/registry.json",
+      "bytes": 2157,
+      "sha256": "f286f4c550cf113b21bc6d8decf69b3c555655f586ba6fbc643ab03d4774c203",
+      "origin": {
+        "npm": "swap-case",
+        "version": "3.0.3",
+        "path": "registry.json"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/title-case/dist/index.js",
+      "bytes": 4774,
+      "sha256": "65b9002b3029690b874e0ad5f6949ae5285220c4a6885f22f1222cfee5772571",
+      "origin": {
+        "npm": "title-case",
+        "version": "4.3.2",
+        "path": "dist/index.js"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/title-case/package.json",
+      "bytes": 1096,
+      "sha256": "7fc35e4f09f7ec89473e7114e906f77c571a3ed75d2cf6b90ef1ea1cfda9713b",
+      "origin": {
+        "npm": "title-case",
+        "version": "4.3.2",
+        "path": "package.json"
+      }
+    },
+    {
+      "path": "validation/oracle/libs/title-case/registry.json",
+      "bytes": 2134,
+      "sha256": "f650380ad8eacde3cae3c4762b65f4f204afa3a4efe7362f274973544e67c587",
+      "origin": {
+        "npm": "title-case",
+        "version": "4.3.2",
+        "path": "registry.json"
+      }
+    },
+    {
+      "path": "licenses/change-case.txt",
+      "bytes": 1103,
+      "sha256": "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/own-mit-normalized.txt",
+      "bytes": 1066,
+      "sha256": "6ea3de86bb1967e3773d9e370bac3e29428d53211cc506fee4d429ba624d43d5",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/own-v1.txt",
+      "bytes": 1087,
+      "sha256": "1d7dbdbcd4fe14dfa08334fab20bffad23c1290f195792a3a4420dadf9912f81",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/raycast-LICENSE",
+      "bytes": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/raycast-package.json",
+      "bytes": 14045,
+      "sha256": "2c402a1cf0d8c73b9ce3b771e11724ab71f8ed7ddbd412a5229fd5937270b090",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/swap-case.txt",
+      "bytes": 1103,
+      "sha256": "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/title-case.txt",
+      "bytes": 1103,
+      "sha256": "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "licenses/unicode.txt",
+      "bytes": 1995,
+      "sha256": "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96",
+      "origin": {
+        "license": "See NOTICES.md and npm release gitHeads in validation/oracle/libs/*/registry.json"
+      }
+    },
+    {
+      "path": "validation/oracle/package.json",
+      "bytes": 15470,
+      "sha256": "42c2befa8bffbf855280a57c7bae36a4bed473fdba885ed2c116285cd518f4e9",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "package.json"
+      }
+    },
+    {
+      "path": "validation/oracle/package-lock.json",
+      "bytes": 70650,
+      "sha256": "678b9022a02d7ce8ec345a9a22f28f7e6562e51d040768eab913451dd78f729d",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "package-lock.json"
+      }
+    },
+    {
+      "path": "validation/oracle/tsconfig.json",
+      "bytes": 308,
+      "sha256": "719eead66c8ecb6e303254030a71e59d6ae94538b94d0edf7a15786195d7fd63",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "tsconfig.json"
+      }
+    },
+    {
+      "path": "validation/oracle/raycast-env.d.ts",
+      "bytes": 8645,
+      "sha256": "9ef67f5102cda5b74a2311a95eb94e36c550eda18e923dd65d9931060e56bff7",
+      "origin": {
+        "repository": "https://github.com/almatkai/change-case",
+        "commit": "b33e675ea3945e08f87dc5ffc8428f5b7dc9d12c",
+        "path": "raycast-env.d.ts"
+      }
+    },
+    {
+      "path": "assets/change-case.png",
+      "bytes": 218405,
+      "sha256": "9c2ae5a995722826df828565dc991aff954d30b376fc3fce6014372c4528ff6b",
+      "origin": {
+        "repository": "https://github.com/raycast/extensions",
+        "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+        "path": "extensions/change-case/assets/command-icon.png"
+      }
+    },
+    {
+      "path": "src/unicode.rs",
+      "bytes": 124777,
+      "sha256": "2c9a639ff9ddbb8ea44fd71e03a7bcfcc5d215cea521a075b95198ecd4d33f31",
+      "origin": {
+        "generator": "validation/generate-unicode.mjs then rustfmt",
+        "node": "26.7.0",
+        "unicode": "17.0",
+        "locale": "en-US"
+      }
+    },
+    {
+      "path": "data/parity.json",
+      "bytes": 17444319,
+      "sha256": "5fe9b1a8afbc18ddb3144b9c06ba003ab71bd08b48b7b6f0f7799455b9a42c95",
+      "origin": {
+        "generator": "validation/oracle/generate.mjs",
+        "source": "actual own TS and exact locked JS libraries",
+        "node": "26.7.0",
+        "locale": "en-US",
+        "vectors": 52668
+      }
+    }
+  ]
+}
